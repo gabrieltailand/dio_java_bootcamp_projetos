@@ -1,6 +1,6 @@
-#Comandos para Inserir arquivos no Git e GitHub#
+# Comandos para Inserir arquivos no Git e GitHub
 
-git status
+:rage3:git status
 
 enviar para o controle de versão (loca):
 git add .
